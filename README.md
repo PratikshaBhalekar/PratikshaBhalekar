@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding 
 - 🌱 I’m currently learning ...Computer Engineering
 - 💞️ I’m looking to collaborate on ...Machine Learning
-- 📫 How to reach me ...Account
+- 📫 How to reach me ...Email ID
 
 
 <!---
